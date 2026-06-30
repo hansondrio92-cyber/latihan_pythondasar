@@ -1,0 +1,7 @@
+{
+    "Aneka Daging": {
+        "1": {"Nama": "Ayam","Harga_per_kg": 30000},
+        "2": {"Nama": "Sapi","Harga_per_kg": 120000},
+        "3": {"Nama": "Babi","Harga_per_kg": 80000}
+    }
+}
